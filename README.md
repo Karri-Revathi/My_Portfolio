@@ -1,1 +1,1 @@
-[View Prototype on Figma](https://www.figma.com/proto/nYVJH1bwkCtehsKgoNpSCg/Untitled?node-id=0-1&t=yxTI7JLUBnreNLPa-1)
+[View Prototype on Figma]([https://www.figma.com/proto/nYVJH1bwkCtehsKgoNpSCg/Untitled?node-id=0-1&t=yxTI7JLUBnreNLPa-1](https://www.figma.com/proto/nYVJH1bwkCtehsKgoNpSCg/Untitled?node-id=4-152&p=f&t=UKZxnQzSprreERuZ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3))
